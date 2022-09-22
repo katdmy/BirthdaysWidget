@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:configure="com.katdmy.birthdayswidget.view.SettingsActivity"
+    android:description="@string/widget_description"
+    android:initialKeyguardLayout="@layout/widget_list"
+    android:initialLayout="@layout/widget_list"
+    android:minWidth="240dp"
+    android:minHeight="40dp"
+    android:targetCellWidth="4"
+    android:targetCellHeight="1"
+    android:previewImage="@drawable/widget_preview"
+    android:previewLayout="@layout/widget_list"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="7200000"
+    android:widgetCategory="home_screen"
+    android:widgetFeatures="reconfigurable|configuration_optional" />

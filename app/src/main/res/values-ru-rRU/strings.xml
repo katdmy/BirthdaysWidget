@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Дни рождения</string>
+    <string name="widget_description">Список ближайших дней рождения</string>
+    <string name="widget_list_no_events">Нет дней рождения</string>
+
+    <string name="settings_title">Настройки виджета</string>
+    <string name="main_title">События в адресной книге</string>
+
+    <string name="permission_action_provide">Предоставить</string>
+    <string name="permission_notification">Требуется разрешение Чтение контактов</string>
+    <string name="permission_rationale">Приложению нужен доступ к контактам, чтобы отобразить записанные в них события</string>
+
+    <string name="menu_widget_settings">Настройки виджета</string>
+
+    <string name="settings_text_size">Размер шрифта</string>
+    <string name="settings_transparent_background">Прозрачный фон</string>
+    <string name="settings_translucent_background">Полупрозрачный фон</string>
+    <string name="settings_opaque_background">Непрозрачный фон</string>
+    <string name="settings_show_contact_photos">Отображать фото контактов</string>
+    <string name="settings_number_events">Количество выводимых событий</string>
+    <string name="settings_close">Закрыть</string>
+    <string name="events_count_error">Введите целое число</string>
+
+    <string name="event_type_birthday">День рождения</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="today">Сегодня</string>
+</resources>

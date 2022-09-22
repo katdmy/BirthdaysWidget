@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BirthdaysWidget</string>
+    <string name="widget_description">This is an app widget description</string>
+    <string name="widget_list_no_events">No upcoming events</string>
+
+    <string name="main_title">Contacts Events</string>
+    <string name="settings_title">Widget Settings</string>
+
+    <string name="permission_rationale">Read contacts permission required to display recorded events</string>
+    <string name="permission_notification">Read contacts permission required</string>
+    <string name="permission_action_provide">Provide</string>
+
+    <string name="menu_widget_settings">Widget settings</string>
+
+    <string name="settings_text_size">Font size</string>
+    <string name="settings_transparent_background">Transparent background</string>
+    <string name="settings_translucent_background">Translucent background</string>
+    <string name="settings_opaque_background">Opaque background</string>
+    <string name="settings_show_contact_photos">Show contact photos</string>
+    <string name="settings_number_events">Number of output events</string>
+    <string name="settings_close">Close</string>
+    <string name="events_count_error">Enter an integer</string>
+
+    <string name="event_type_birthday">Birthday</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+</resources>
