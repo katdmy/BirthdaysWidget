@@ -54,6 +54,7 @@ class MainActivity : Activity() {
     }
 
     override fun onResume() {
+        initViews()
         startWork()
         super.onResume()
     }
